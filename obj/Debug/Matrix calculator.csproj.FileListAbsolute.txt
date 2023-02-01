@@ -1,0 +1,11 @@
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix calculator.csproj.AssemblyReference.cache
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix_calculator.Properties.Resources.resources
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix calculator.csproj.GenerateResource.cache
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix calculator.csproj.CoreCompileInputs.cache
+C:\1 Programming\1 Dule kralj\Matrix calculator\bin\Debug\Matrix calculator.exe.config
+C:\1 Programming\1 Dule kralj\Matrix calculator\bin\Debug\Matrix calculator.exe
+C:\1 Programming\1 Dule kralj\Matrix calculator\bin\Debug\Matrix calculator.pdb
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix calculator.exe
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix calculator.pdb
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\Matrix_calculator.Form1.resources
+C:\1 Programming\1 Dule kralj\Matrix calculator\obj\Debug\custom_controls.custom_textbox.resources
