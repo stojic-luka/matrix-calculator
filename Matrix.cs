@@ -1,7 +1,5 @@
 ﻿using System;
 
-//Copyright © to Aleksa 5726
-
 namespace MatrixMath {
     internal class Matrix {
         #region MainVariables
