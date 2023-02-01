@@ -5,7 +5,7 @@ This is a very handy program that has all the operations with matrices:
   - matrix subtraction
   - matrix multiplication
   - matrix scaling
-  - minor matrix
+  - matrix minor
   - determinant of the matrix
   - inverse matrix
 
